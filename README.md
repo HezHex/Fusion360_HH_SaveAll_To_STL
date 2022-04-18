@@ -6,3 +6,5 @@ Installation:
  then restart fusion 360
  
  you can find a button into Utility tab, under make panel
+ 
+ ![where image](assets/where.png)
