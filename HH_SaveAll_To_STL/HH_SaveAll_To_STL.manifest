@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"f6ebe3e4-ffff-4624-8426-7a201ba184ce",
+	"author":	"HezHex",
+	"description":	{
+		"":	"Save all selected bodies to separated STL file"
+	},
+	"version":	"2",
+	"runOnStartup":	true,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
